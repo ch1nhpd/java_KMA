@@ -24,7 +24,7 @@ Từ lớp Person phát triển các lớp Employee, Manager, Student và Progra
 
 **Lớp Programmer**: Phát triển từ lớp Student. Thêm thuộc tính số năm kinh nghiệm.  
 
-#### Bài 12:  
+#### [Bài 12](https://github.com/ch1nhpd/java_KMA/tree/master/src/Buoi4/Bai12) 
 
 Dùng tính kế thừa khai báo 3 class: 
 Class **Sinh Viên** gồm các thuộc tính: Họ tên, năm sinh, mã thẻ, tiền học phí còn nợ. 
@@ -33,7 +33,7 @@ Class **Giảng Viên** gồm các thuộc tính: Họ tên, năm sinh, mã th�
 
 Class **Giám Đốc** gồm các thuộc tính: Họ tên, năm sinh, mã thẻ, tiền tiêu hàng tháng. 
 
-#### Bài 13 
+#### [Bài 13](https://github.com/ch1nhpd/java_KMA/tree/master/src/Buoi4/Bai13) 
 
 - Lớp *tên người Việt* gồm 2 thuộc tính: "họ" và "tên" và phương thức hiển thị tên đầy đủ theo thứ tự họ + tên 
 
@@ -45,7 +45,7 @@ Class **Giám Đốc** gồm các thuộc tính: Họ tên, năm sinh, mã thẻ
 
  
 
-#### Bài 14 
+#### [Bài 14](https://github.com/ch1nhpd/java_KMA/tree/master/src/Buoi4/Bai14) 
 
 - Lớp *HocSinh* gồm các thuộc tính: hoTen, lop, toan, ly, hoa và phương thức điểm trung bình là trung bình cộng 3 môn 
 
@@ -53,7 +53,7 @@ Class **Giám Đốc** gồm các thuộc tính: Họ tên, năm sinh, mã thẻ
 
  
 
-#### Bài 15 
+#### [Bài 15](https://github.com/ch1nhpd/java_KMA/tree/master/src/Buoi4/Bai15) 
 
  
 
