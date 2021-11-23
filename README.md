@@ -1,6 +1,6 @@
-###Kế Thừa	 
+### Kế Thừa	 
 
-#### Bài 10 
+#### [Bài 10](https://github.com/ch1nhpd/java_KMA/tree/master/src/Buoi4/Bai10) 
 
 Viết một lớp các đối tượng Person với những đặc tính sau: Có thuộc tính tên, Có thuộc tính tuổi, Có thuộc tính giới tính.  
 
