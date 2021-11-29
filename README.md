@@ -62,4 +62,3 @@ Class **Giám Đốc** gồm các thuộc tính: Họ tên, năm sinh, mã thẻ
 - Class *Mouse* kế thừa từ class USB, ghi đè 2 phương thức tổng tiền (do chuột được giảm giá 20%) và show in toàn bộ thông tin đơn hàng khi khách hàng mua chuột máy tính. 
 
 - Tạo mỗi lớp 1 đối tượng, nhập thông tin từ bàn phím, in thông tin đơn hàng ra màn hình! 
-[XSS](javascript:alert('xss'))
