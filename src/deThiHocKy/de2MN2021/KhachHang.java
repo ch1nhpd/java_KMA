@@ -104,8 +104,5 @@ public class KhachHang {
 	public void setThanhPho(String thanhPho) {
 		this.thanhPho = thanhPho;
 	}
-	
-	
-	
 
 }
