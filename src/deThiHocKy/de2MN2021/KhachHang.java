@@ -10,6 +10,7 @@ public class KhachHang {
 	private String diaChi,to,phuong,quan,thanhPho;
 	
 	ArrayList<HoaDon> hoaDons = new ArrayList<>();
+	
 	private double tongTien;
 	Scanner sc = new Scanner(System.in);
 	public void nhapThongTin() {
